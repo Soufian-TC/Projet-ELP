@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Soufian-TC/projet-go/fonctions"
+	"github.com/Soufian-TC/Projet-ELP/GO/fonctions"
 )
 
 // Fonction pour traiter l'upload de l'image, appliquer le flou et renvoyer l'image floutée
